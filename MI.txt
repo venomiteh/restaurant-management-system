@@ -1,0 +1,6 @@
+5
+12 frenchfries 5
+115 hamburger 12
+17 steak 25
+76 hprde 54
+89 horse 90

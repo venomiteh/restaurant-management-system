@@ -1,0 +1,41 @@
+Customer name: sam
+Order date: today
+Total amount: $21.645
+Ordered items:
+- steak, quantity: 5, price: $7
+- hamburger, quantity: 2, price: $2
+
+Customer name: sam
+Order date: today
+Total amount: $32.745
+Ordered items:
+- hamburger, quantity: 2, price: $12
+- frenchfries, quantity: 2, price: $5
+- steak, quantity: 1, price: $25
+
+Customer name: sam
+Order date: 8-5-2023
+Total amount: $19.425
+Ordered items:
+- frenchfries, quantity: 7, price: $5
+
+Customer name: sam
+Order date: 8-5-2023
+Total amount: $13.875
+Ordered items:
+- frenchfries, quantity: 5, price: $5
+
+Customer name: hazimeh
+Order date: 16-5-2023
+Total amount: $27.75
+Ordered items:
+- frenchfries, quantity: 5, price: $5
+
+Customer name: sam
+Order date: 18-5-2023
+Total amount: $120.99
+Ordered items:
+- frenchfries, quantity: 2, price: $5
+- hamburger, quantity: 2, price: $12
+- steak, quantity: 3, price: $25
+
